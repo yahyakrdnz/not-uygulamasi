@@ -1,5 +1,12 @@
-ls: Bulunduğunuz klasördeki dosya ve klasörleri listeler.
-cd: Klasörler arasında geçiş yapar. Örnek: cd Belgeler
-pwd: Şu an hangi klasörde olduğunuzu gösterir.
-mkdir: Yeni bir klasör oluşturur. Örnek: mkdir yeni_klasor
-rm: Dosya siler. Örnek: rm dosya.txt (Dikkat: silinen dosya geri gelmez.)
+linux komutları
+1 ls: Bulunduğunuz klasördeki dosya ve klasörleri listeler.
+2 cd: Klasörler arasında geçiş yapar. Örnek: cd Belgeler
+3 pwd: Şu an hangi klasörde olduğunuzu gösterir.
+4 mkdir: Yeni bir klasör oluşturur. Örnek: mkdir yeni_klasor
+5 rm: Dosya siler. Örnek: rm dosya.txt (Dikkat: silinen dosya geri gelmez.)
+Git komutları
+1 git init: Yeni bir Git deposu başlatır.
+2 git status: Hangi dosyaların değiştiğini gösterir.
+3 git add: Dosyaları commit için hazırlar (staging).
+4 git commit -m "mesaj": Değişiklikleri kaydeder.
+5 git log: Commit geçmişini listeler.
